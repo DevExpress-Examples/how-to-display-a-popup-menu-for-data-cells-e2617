@@ -1,3 +1,10 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [MainPage.xaml](./CS/CellContextMenu/MainPage.xaml) (VB: [MainPage.xaml.vb](./VB/CellContextMenu/MainPage.xaml.vb))
+* [MainPage.xaml.cs](./CS/CellContextMenu/MainPage.xaml.cs) (VB: [MainPage.xaml.vb](./VB/CellContextMenu/MainPage.xaml.vb))
+* [Products.cs](./CS/CellContextMenu/Products.cs) (VB: [Products.vb](./VB/CellContextMenu/Products.vb))
+<!-- default file list end -->
 # How to Display a Popup Menu for Data Cells
 
 
